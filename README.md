@@ -1,1 +1,6 @@
-# repos1
+# for the chet
+[alpha]
+
+team:
+Cobalt
+Snuqy
